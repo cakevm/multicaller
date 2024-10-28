@@ -9,8 +9,9 @@ node_modules/
 cache/
 out/
 
-# Vscode
+# IDE's
 .vscode/
+.idea
 
 # huffc artifacts
 artifacts
@@ -24,3 +25,4 @@ broadcast
 lib/
 
 yarn.lock
+
